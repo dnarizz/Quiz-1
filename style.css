@@ -1,0 +1,36 @@
+body {
+  font-family: 'Times New Roman', Times, serifs, sans-serif;
+  background-color: #f7f9fc;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+header {
+  background: #e0ae38;
+  color: rgb(255, 255, 255);
+  padding: 30px;
+  text-align: left;
+}
+
+nav a {
+  margin: 0 10px;
+  color: #000000;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav a:hover {
+  color: #fd0000;
+}
+
+main {
+  padding: 100px;
+}
+
+footer {
+  background: #e0ae38;
+  color: rgb(255, 255, 255);
+  padding: 10px;
+  margin-top: 20px;
+}
